@@ -1,0 +1,899 @@
+Company,City,Job_Type,Industry,Avg_Salary,Job_Kind,Seniority
+Nesta,London,contract,Organization,30000.0,datascientist,junior_level
+Pivigo Ltd,London,contract,Other,130000.0,datascientist,middle_level
+CMW International,London,contract,Other,117000.0,datascientist,middle_level
+J&C Associates Ltd,London,contract,Other,21190.0,datascientist,middle_level
+Salt Recruitment,London,contract,Consulting and Business Services,143000.0,datascientist,senior_level
+La Fosse Associates,London,contract,Human Resources and Staffing,156000.0,datascientist,middle_level
+Lawrence Harvey,London,contract,Other,26000.0,datascientist,middle_level
+onezeero,London,contract,Other,182000.0,datascientist,middle_level
+Lawrence Harvey,London,contract,Other,136500.0,datascientist,middle_level
+Nesta,London,contract,Organization,30000.0,studentcoordinator,middle_level
+Huntress,London,contract,Human Resources and Staffing,72800.0,datascientist,senior_level
+Vitamin T,London,contract,Human Resources and Staffing,85000.0,datascientist,middle_level
+Talent International,London,contract,Human Resources and Staffing,123500.0,datascientist,middle_level
+Blue Pelican,London,contract,Other,110500.0,datascientist,middle_level
+GCS Recruitment Specialists Ltd,London,contract,Human Resources and Staffing,72800.0,socialmediaspecialist,senior_level
+Premier Group,London,contract,Other,117000.0,datascientist,senior_level
+The Institute of Cancer Research,London,contract,Other,27367.0,data,senior_level
+Nicoll Curtin Limited,London,contract,Other,110500.0,datascientist,middle_level
+Vertex Solutions,London,contract,Other,156000.0,Unknown,middle_level
+Investigo,London,contract,Human Resources and Staffing,182000.0,Unknown,middle_level
+Mcgregor Boyall,London,contract,Human Resources and Staffing,175500.0,Unknown,middle_level
+Vertex Solutions,London,contract,Other,149500.0,Unknown,middle_level
+"UK Government - Department for Environment, Food a...",London,contract,Other,120000.0,Unknown,senior_level
+La Fosse Associates,London,contract,Human Resources and Staffing,156000.0,Unknown,senior_level
+Transport for London,London,contract,Transport and Freight,20231.0,apprentice,junior_level
+Imperial College London,London,contract,Education and Schools,39172.0,researchassociate,middle_level
+Certus Recruitment Group,London,contract,Human Resources and Staffing,143000.0,datascientist,senior_level
+Imperial College London,London,contract,Education and Schools,47781.5,researchfellow,middle_level
+Imperial College London,London,contract,Education and Schools,39160.0,researchfellow,middle_level
+Shell Trading,London,contract,Energy and Utilities,55000.0,quantitativeanalyst,middle_level
+Pertemps Network Group,London,contract,Other,156000.0,dataengineer,senior_level
+Imperial College London,London,contract,Education and Schools,65000.0,researchfellow,middle_level
+Red10,London,contract,Other,136500.0,datascientist,senior_level
+Vertex Solutions,London,contract,Other,201500.0,datascientist,senior_level
+Nexus Recruitment,London,contract,Other,97500.0,dataanalyst,junior_level
+La Fosse Associates,London,contract,Human Resources and Staffing,110500.0,dataproject,senior_level
+Investigo,London,contract,Human Resources and Staffing,42500.0,fp&aanalyst,middle_level
+Imperial College London,London,contract,Education and Schools,35941.5,research,junior_level
+CK Group,London,contract,Human Resources and Staffing,25000.0,datascientist,senior_level
+Premier Group,London,contract,Other,60000.0,machinelearningengineer,middle_level
+myfuturerole.com,London,contract,Other,156000.0,dataengineer,senior_level
+Linux Recruit,London,contract,Other,143000.0,developmentoperationsengineer,middle_level
+Twenty Recruitment Group,London,contract,Other,169000.0,quantitativeanalyst,senior_level
+Vertex Solutions,London,contract,Other,143000.0,datascientist,middle_level
+CK Group,London,contract,Human Resources and Staffing,80080.0,datascientist,middle_level
+Reed Mace Solutions,London,contract,Other,115000.0,technologyofficer,senior_level
+Greater London Authority,London,contract,Other,53822.0,backenddeveloper,middle_level
+Avantia Group,London,contract,Other,20500.0,customerservicerepresentative,middle_level
+Vertex Solutions,London,contract,Other,143000.0,e-commercespecialist,middle_level
+Linux Recruit,London,contract,Other,149500.0,developmentoperationsengineer,middle_level
+Plexus Resource Solutions,London,contract,Other,169000.0,machinelearningengineer,middle_level
+Babylon Health,London,contract,Health Care,26000.0,recruiter,junior_level
+Mcgregor Boyall,London,contract,Human Resources and Staffing,175500.0,quantitativeanalyst,junior_level
+Middlesex University London,London,contract,Other,40320.5,researchfellow,middle_level
+Linux Recruit,London,contract,Other,156000.0,dataengineer,senior_level
+IC Resources,London,contract,Computers and Electronics,130000.0,machinelearningengineer,middle_level
+Imperial College London,London,contract,Education and Schools,41992.5,researchassociate,middle_level
+Reedmace Solutions Ltd,London,contract,Other,75000.0,offinance,senior_level
+Maxxima,London,contract,Health Care,21840.0,laboratory,junior_level
+Hydrogen Group,London,contract,Other,130000.0,machinelearningengineer,middle_level
+Imperial College London,London,contract,Education and Schools,36766.0,researchassociate,junior_level
+CK Group,London,contract,Human Resources and Staffing,91000.0,operations,senior_level
+Imperial College London,London,contract,Education and Schools,40448.0,researchassociate,senior_level
+myfuturerole.com,London,contract,Other,152750.0,backenddeveloper,middle_level
+Futureheads Recruitment,London,contract,Other,107900.0,phpdeveloper,middle_level
+Futureheads Recruitment,London,contract,Other,85800.0,Unknown,middle_level
+The Institute of Cancer Research,London,contract,Other,37680.0,Unknown,middle_level
+Morgan Hunt Group,London,contract,Other,47000.0,Unknown,senior_level
+iKas International,London,contract,Other,188500.0,Unknown,junior_level
+Transport for London,London,contract,Transport and Freight,20231.0,Unknown,junior_level
+Futureheads Recruitment,London,contract,Other,85800.0,phpdeveloper,middle_level
+The Institute of Cancer Research,London,contract,Other,37680.0,post-doctoralfellow,middle_level
+Morgan Hunt Group,London,contract,Other,47000.0,reward,senior_level
+iKas International,London,contract,Other,188500.0,softwarearchitect,junior_level
+Pivigo Ltd,London,temporary,Other,130000.0,datascientist,middle_level
+Salt Recruitment,London,temporary,Consulting and Business Services,143000.0,datascientist,senior_level
+Avantia Group,London,temporary,Other,27000.0,customerspecialist,middle_level
+EMR Marketing Recruitment,London,temporary,Other,84500.0,dataanalyst,middle_level
+Onfido,London,temporary,Other,30000.0,machinelearningengineer,middle_level
+Greater London Authority,London,temporary,Other,53822.0,backenddeveloper,middle_level
+Avantia Group,London,temporary,Other,20500.0,customerservicerepresentative,middle_level
+Babylon Health,London,temporary,Health Care,50000.0,deliverydriver,middle_level
+EMR Marketing Recruitment,London,temporary,Other,106600.0,productanalyst,senior_level
+Middlesex University London,London,temporary,Other,40320.5,researchfellow,middle_level
+Linux Recruit,London,temporary,Other,156000.0,dataengineer,senior_level
+Manpower,London,temporary,Human Resources and Staffing,30000.0,Unknown,middle_level
+Reedmace Solutions Ltd,London,temporary,Other,75000.0,offinance,senior_level
+Memrise,London,temporary,Other,57500.0,optimization,senior_level
+Shell Trading,London,internship,Energy and Utilities,55000.0,quantitativeanalyst,middle_level
+University of London,London,internship,Education and Schools,25000.0,softwaredevelopment,middle_level
+Onfido,London,internship,Other,30000.0,machinelearningengineer,middle_level
+Inspiring Interns,London,internship,Other,22000.0,marketingexecutive,senior_level
+"UK Government - Department for Business, Energy &...",London,parttime,Other,28455.5,administrative,senior_level
+"UK Government - Department for Environment, Food a...",London,parttime,Other,46612.0,airqualityengineer,senior_level
+"UK Government - Ministry of Housing, Communities &...",London,parttime,Other,26808.0,Unknown,middle_level
+Guy's and St Thomas' NHS Foundation Trust,London,parttime,Health Care,44785.0,datascientist,senior_level
+UK Government - Animal and Plant Health Agency,London,parttime,Government,33768.0,datascientist,senior_level
+Campaign for Science and Engineering,London,parttime,Other,37000.0,engagement,senior_level
+Campaign for Science and Engineering,London,parttime,Other,37000.0,Unknown,senior_level
+London Borough of Redbridge,London,fulltime,Other,23978.0,datascientist,middle_level
+Tec Partners,London,fulltime,Other,35000.0,datascientist,middle_level
+Unmortgage,London,fulltime,Other,75000.0,datascientist,senior_level
+Explore AI Limited,London,fulltime,Other,40000.0,datascientist,middle_level
+MarketInvoice,London,fulltime,Other,50000.0,datascientist,middle_level
+Pivigo Ltd,London,fulltime,Other,130000.0,datascientist,middle_level
+Streetbees,London,fulltime,Other,75000.0,datascientist,senior_level
+causaLens,London,fulltime,Other,45000.0,datascientist,middle_level
+Forward3D,London,fulltime,Other,45000.0,datascientist,middle_level
+Quantexa,London,fulltime,Other,82500.0,datascientist,middle_level
+Braingraph Ltd.,London,fulltime,Other,27500.0,dataanalyst,middle_level
+Metrica Recruitment,London,fulltime,Consulting and Business Services,52500.0,Unknown,senior_level
+Picked.ai,London,fulltime,Other,35000.0,Unknown,middle_level
+ComplyAdvantage,London,fulltime,Other,65000.0,datascientist,senior_level
+BMLL Technologies Ltd,London,fulltime,Other,70000.0,datascientist,senior_level
+Metrica Recruitment,London,fulltime,Consulting and Business Services,80000.0,Unknown,senior_level
+Transport for London,London,apprenticeship,Transport and Freight,20231.0,apprentice,junior_level
+Shell Trading,London,apprenticeship,Energy and Utilities,55000.0,quantitativeanalyst,middle_level
+Transport for London,London,apprenticeship,Transport and Freight,20231.0,Unknown,junior_level
+University of Birmingham,Birmingham,fulltime,Other,30395.0,datascientist,middle_level
+University of Birmingham,Birmingham,fulltime,Other,30395.0,curator,middle_level
+National Grid,Birmingham,fulltime,Energy and Utilities,37100.0,quantitativeanalyst,senior_level
+NOURISHED in Birm,Birmingham,fulltime,Other,30000.0,datascientist,senior_level
+Drayton Animal Health,Birmingham,fulltime,Other,30953.5,datascientist,middle_level
+University of Birmingham,Birmingham,fulltime,Other,30395.0,researchfellow,middle_level
+Technical Team Solutions,Birmingham,fulltime,Other,40000.0,Unknown,middle_level
+Technical Team Solutions,Birmingham,fulltime,Other,40000.0,developmentoperationsengineer,middle_level
+Eligo Recruitment,Birmingham,fulltime,Other,65000.0,developer,middle_level
+UK Government - Home Office,Birmingham,fulltime,Government,45846.5,secretary,senior_level
+University of Birmingham,Birmingham,fulltime,Other,32569.0,researchfellow,senior_level
+Drayton Animal Health,Birmingham,fulltime,Other,30953.5,Unknown,middle_level
+CK Group,Liverpool,contract,Human Resources and Staffing,26169.0,Unknown,middle_level
+Scantec,Liverpool,contract,Human Resources and Staffing,31000.0,Unknown,middle_level
+CK Group,Liverpool,contract,Human Resources and Staffing,26169.0,datascientist,middle_level
+Scantec,Liverpool,contract,Human Resources and Staffing,31000.0,datascientist,middle_level
+Quantexa,Liverpool,temporary,Other,20400.0,datascientist,middle_level
+Quantexa,Liverpool,internship,Other,20400.0,datascientist,middle_level
+UK Government - Health and Safety Executive,Liverpool,parttime,Government,26992.5,datascientist,middle_level
+Prifysgol Bangor University,Liverpool,parttime,Other,36404.5,researcher,middle_level
+Crowder Consulting,Liverpool,fulltime,Other,22500.0,datascientist,middle_level
+STFC,Liverpool,fulltime,Other,40447.0,datascientist,middle_level
+Search Consultancy,Liverpool,fulltime,Human Resources and Staffing,33000.0,datascientist,middle_level
+STFC,Liverpool,fulltime,Other,37679.0,datascientist,middle_level
+Search Consultancy,Liverpool,fulltime,Human Resources and Staffing,31000.0,datascientist,middle_level
+STFC,Liverpool,fulltime,Other,36679.0,datascientist,middle_level
+Search Consultancy,Liverpool,fulltime,Human Resources and Staffing,41000.0,datascientist,senior_level
+STFC,Liverpool,fulltime,Other,32120.5,softwareengineer,middle_level
+STFC,Liverpool,fulltime,Other,36679.0,Unknown,middle_level
+STFC,Liverpool,fulltime,Other,41447.0,softwareengineer,middle_level
+STFC,Liverpool,fulltime,Other,40447.0,fullstackdeveloper,middle_level
+STFC,Liverpool,fulltime,Other,40447.0,Unknown,middle_level
+NERC,Nottingham,fulltime,Organization,20247.5,restorationtechnician,junior_level
+NERC,Nottingham,fulltime,Organization,25497.5,geologist,middle_level
+NERC,Nottingham,fulltime,Organization,25854.5,instrumentationengineer,senior_level
+NERC,Nottingham,fulltime,Organization,39888.5,geologist,senior_level
+Loughborough University,Nottingham,fulltime,Education and Schools,34500.0,researchassociate,middle_level
+NERC,Nottingham,fulltime,Organization,20247.5,Unknown,junior_level
+UK Government - Health and Safety Executive,Sheffield,contract,Government,26992.5,Unknown,middle_level
+UK Government - Health and Safety Executive,Sheffield,contract,Government,26992.5,datascientist,middle_level
+UK Government - Health and Safety Executive,Sheffield,temporary,Government,26992.5,datascientist,middle_level
+UK Government - Health and Safety Executive,Sheffield,parttime,Government,26992.5,datascientist,middle_level
+Ossila Ltd,Sheffield,fulltime,Other,30000.0,Unknown,middle_level
+UK Government - Health and Safety Executive,Sheffield,fulltime,Government,26992.5,datascientist,middle_level
+Ossila Ltd,Sheffield,fulltime,Other,30000.0,seospecialist,middle_level
+University of Sheffield,Sheffield,fulltime,Education and Schools,35455.5,researchassociate,middle_level
+Concept Information Technology,Bristol,contract,Consulting and Business Services,36400.0,Unknown,middle_level
+Acorn Recruitment Limited,Bristol,contract,Human Resources and Staffing,52000.0,Unknown,senior_level
+Line Up Aviation,Bristol,contract,Other,52000.0,Unknown,senior_level
+Concept Information Technology,Bristol,contract,Consulting and Business Services,36400.0,datascientist,junior_level
+Concept Information Technology,Bristol,contract,Consulting and Business Services,36400.0,datascientist,middle_level
+Acorn Recruitment Limited,Bristol,contract,Human Resources and Staffing,52000.0,data,senior_level
+Line Up Aviation,Bristol,contract,Other,52000.0,land,senior_level
+FluoretiQ Limited,Bristol,fulltime,Other,32500.0,datascientist,middle_level
+M S A Environmental,Bristol,fulltime,Other,23000.0,datascientist,middle_level
+AMSI Consultancy Services,Bristol,fulltime,Other,51000.0,datascientist,middle_level
+Wildfowl and Wetlands Trust,Bristol,fulltime,Other,22975.0,researcher,middle_level
+AMSI Consultancy Services,Bristol,fulltime,Other,51000.0,dataengineer,middle_level
+FluoretiQ Limited,Bristol,fulltime,Other,32500.0,Unknown,senior_level
+The Engage Partnership,Bristol,fulltime,Other,72500.0,machinelearningengineer,senior_level
+University of Bristol,Bristol,fulltime,Education and Schools,37617.5,researchassociate,middle_level
+Software Personnel International (m/w),Bristol,fulltime,Other,52500.0,machinelearningengineer,senior_level
+Bodhi Resourcing,Bristol,fulltime,Other,35000.0,dataengineer,senior_level
+Terrafirma IDC,Bristol,fulltime,Other,24000.0,fullstackdeveloper,senior_level
+Terrafirma IDC,Bristol,fulltime,Other,24000.0,Unknown,senior_level
+Elucidata Ltd,Bristol,fulltime,Other,55000.0,developmentoperationsengineer,senior_level
+Rovco,Bristol,fulltime,Other,47500.0,machinelearningengineer,middle_level
+University of Bristol,Bristol,fulltime,Education and Schools,47717.0,associateprofessor,junior_level
+Software Personnel International (m/w),Bristol,fulltime,Other,52500.0,Unknown,senior_level
+Environmental Tracing,Glasgow,contract,Other,32500.0,datascientist,middle_level
+Environmental Tracing,Glasgow,contract,Other,32500.0,Unknown,senior_level
+Random Analysis,Glasgow,contract,Internet and Software,110500.0,Unknown,middle_level
+Environmental Tracing,Glasgow,contract,Other,32500.0,datascientist,senior_level
+Random Analysis,Glasgow,contract,Internet and Software,110500.0,frontenddeveloper,middle_level
+Police Scotland,Glasgow,fulltime,Other,45460.0,datascientist,senior_level
+Environmental Tracing,Glasgow,fulltime,Other,32500.0,datascientist,senior_level
+Police Scotland,Glasgow,fulltime,Other,28701.0,productofficer,middle_level
+The HR Booth,Glasgow,fulltime,Other,35000.0,datascientist,senior_level
+Police Scotland,Glasgow,fulltime,Other,32778.0,productengineer,senior_level
+University of Stirling,Glasgow,fulltime,Education and Schools,23394.0,laboratory,junior_level
+OnScale,Glasgow,fulltime,Other,40000.0,softwareengineer,senior_level
+NERC,Leicester,fulltime,Organization,20247.5,restorationtechnician,junior_level
+NERC,Leicester,fulltime,Organization,20247.5,Unknown,junior_level
+NERC,Leicester,fulltime,Organization,25497.5,geologist,middle_level
+NERC,Leicester,fulltime,Organization,25854.5,instrumentationengineer,senior_level
+Loughborough University,Leicester,fulltime,Education and Schools,34500.0,researchassociate,middle_level
+NERC,Leicester,fulltime,Organization,39888.5,geologist,senior_level
+Morson International,Edinburgh,contract,Human Resources and Staffing,83200.0,oracledeveloper,middle_level
+Head Resourcing Limited,Edinburgh,contract,Other,91000.0,pythondeveloper,senior_level
+Morson International,Edinburgh,temporary,Human Resources and Staffing,83200.0,oracledeveloper,middle_level
+Morsum,Edinburgh,fulltime,Other,32500.0,datascientist,middle_level
+Lloyds Banking Group,Edinburgh,fulltime,Banks and Financial Services,41097.0,datascientist,senior_level
+Head Resourcing Limited,Leeds,contract,Other,110500.0,Unknown,middle_level
+Head Resourcing Limited,Leeds,contract,Other,143000.0,Unknown,middle_level
+Head Resourcing Limited,Leeds,contract,Other,110500.0,testengineer,senior_level
+Head Resourcing Limited,Leeds,contract,Other,143000.0,developmentoperationsengineer,senior_level
+Head Resourcing Limited,Leeds,contract,Other,110500.0,testengineer,middle_level
+Head Resourcing Limited,Leeds,contract,Other,143000.0,rubydeveloper,middle_level
+Head Resourcing Limited,Leeds,contract,Other,143000.0,developmentoperationsengineer,middle_level
+TemplarFox Consultancy,Leeds,fulltime,Other,37500.0,,senior_level
+TemplarFox Consultancy,Leeds,fulltime,Other,37500.0,Unknown,senior_level
+Ministry of Justice,Leeds,fulltime,Other,38387.5,chaplain,senior_level
+UK Government - Health and Safety Executive,Manchester,contract,Government,26992.5,Unknown,middle_level
+University of Salford,Manchester,contract,Other,27525.0,Unknown,middle_level
+The University of Manchester,Manchester,contract,Education and Schools,35922.5,Unknown,middle_level
+The University of Manchester,Manchester,contract,Education and Schools,35922.5,researchassociate,senior_level
+UK Government - Health and Safety Executive,Manchester,contract,Government,26992.5,datascientist,middle_level
+University of Salford,Manchester,contract,Other,27525.0,databasedeveloper,middle_level
+The University of Manchester,Manchester,contract,Education and Schools,35922.5,researchassociate,middle_level
+UK Government - Health and Safety Executive,Manchester,temporary,Government,26992.5,datascientist,middle_level
+Quantexa,Manchester,internship,Other,20400.0,datascientist,middle_level
+UK Government - Health and Safety Executive,Manchester,parttime,Government,26992.5,datascientist,middle_level
+H.t.E Recruitment,Manchester,fulltime,Other,70000.0,datascientist,senior_level
+STFC,Manchester,fulltime,Other,40447.0,datascientist,middle_level
+UK Government - Health and Safety Executive,Manchester,fulltime,Government,26992.5,datascientist,middle_level
+STFC,Manchester,fulltime,Other,37679.0,datascientist,middle_level
+Nexus Recruitment,Manchester,fulltime,Other,82500.0,datascientist,senior_level
+Spectra Analytics,Manchester,fulltime,Other,32500.0,softwaretrainer,senior_level
+STFC,Manchester,fulltime,Other,36679.0,datascientist,middle_level
+LiCa Scientific Ltd,Manchester,fulltime,Other,32500.0,datascientist,middle_level
+Brooks Life Science Systems,Manchester,fulltime,Other,32500.0,Unknown,middle_level
+Aspire Recruitment Partnership,Manchester,fulltime,Other,20404.0,projectofficer,junior_level
+The Christie Hospital NHS Foundation Trust,Manchester,fulltime,Health Care,38131.5,statistician,middle_level
+Veramed,Manchester,fulltime,Other,48000.0,statistician,senior_level
+University of Salford,Manchester,fulltime,Other,27525.0,databasedeveloper,middle_level
+STFC,Manchester,fulltime,Other,32120.5,softwareengineer,middle_level
+myfuturerole.com,Manchester,fulltime,Other,70000.0,machinelearningengineer,middle_level
+STFC,Manchester,fulltime,Other,41447.0,softwareengineer,middle_level
+STFC,Manchester,fulltime,Other,36679.0,Unknown,middle_level
+STFC,Manchester,fulltime,Other,40447.0,Unknown,middle_level
+Earthwatch Europe,Coventry,parttime,Other,35000.0,datascientist,middle_level
+University of Birmingham,Coventry,fulltime,Other,30395.0,curator,middle_level
+University of Birmingham,Coventry,fulltime,Other,30395.0,datascientist,middle_level
+Drayton Animal Health,Coventry,fulltime,Other,30953.5,datascientist,middle_level
+National Grid,Coventry,fulltime,Energy and Utilities,37100.0,quantitativeanalyst,senior_level
+NOURISHED in Birm,Coventry,fulltime,Other,30000.0,datascientist,senior_level
+University of Birmingham,Coventry,fulltime,Other,30395.0,researchfellow,middle_level
+Technical Team Solutions,Coventry,fulltime,Other,40000.0,developmentoperationsengineer,middle_level
+Diabetes Digital Media,Coventry,fulltime,Other,40000.0,phpdeveloper,senior_level
+UK Government - Home Office,Coventry,fulltime,Government,45846.5,secretary,senior_level
+Eligo Recruitment,Coventry,fulltime,Other,65000.0,developer,middle_level
+University of Birmingham,Coventry,fulltime,Other,32569.0,researchfellow,senior_level
+Technical Team Solutions,Coventry,fulltime,Other,40000.0,Unknown,middle_level
+Drayton Animal Health,Coventry,fulltime,Other,30953.5,Unknown,middle_level
+Pirbright,Reading,contract,Other,27355.0,datascientist,middle_level
+CK Group,Reading,contract,Human Resources and Staffing,49920.0,datascientist,junior_level
+CK Group,Reading,contract,Human Resources and Staffing,25000.0,datascientist,senior_level
+CK Group,Reading,contract,Human Resources and Staffing,80080.0,datascientist,middle_level
+Lawrence Harvey,Reading,contract,Other,143000.0,developmentoperationsengineer,middle_level
+University of Reading,Reading,temporary,Education and Schools,33328.0,datascientist,middle_level
+EMR Marketing Recruitment,Reading,temporary,Other,84500.0,dataanalyst,middle_level
+Manpower,Reading,temporary,Human Resources and Staffing,30000.0,Unknown,middle_level
+Earthwatch Europe,Reading,parttime,Other,35000.0,datascientist,middle_level
+STFC,Reading,parttime,Other,31677.0,Unknown,middle_level
+UK Government - Animal and Plant Health Agency,Reading,parttime,Government,33768.0,datascientist,senior_level
+Oxbotica,Reading,fulltime,Other,65000.0,datascientist,middle_level
+Deputi AI,Reading,fulltime,Other,50000.0,datascientist,middle_level
+British Car Auctions,Reading,fulltime,Transport and Freight,50000.0,datascientist,senior_level
+AWE,Reading,fulltime,Other,25000.0,buyer,junior_level
+Atomic Weapons Establishment,Reading,fulltime,Other,25000.0,buyer,junior_level
+Earthwatch Europe,Reading,fulltime,Other,35000.0,datascientist,middle_level
+Replimune Ltd,Reading,fulltime,Other,28000.0,datascientist,junior_level
+Dativa,Reading,fulltime,Other,32000.0,datascientist,junior_level
+STFC,Reading,fulltime,Other,32120.5,Unknown,middle_level
+Ultromics,Reading,fulltime,Health Care,55000.0,datascientist,middle_level
+Pirbright,Reading,fulltime,Other,27355.0,datascientist,middle_level
+Ad Warrior,Reading,fulltime,Other,42500.0,datascientist,middle_level
+MacrophOx Limited,Reading,fulltime,Other,38500.0,datascientist,middle_level
+Dativa,Reading,fulltime,Other,32000.0,Unknown,junior_level
+CK Group,Preston,contract,Human Resources and Staffing,26169.0,datascientist,middle_level
+Scantec,Preston,contract,Human Resources and Staffing,31000.0,datascientist,middle_level
+University of Salford,Preston,contract,Other,27525.0,databasedeveloper,middle_level
+The University of Manchester,Preston,contract,Education and Schools,35922.5,researchassociate,middle_level
+Quantexa,Preston,temporary,Other,20400.0,datascientist,middle_level
+Quantexa,Preston,internship,Other,20400.0,datascientist,middle_level
+UK Government - Health and Safety Executive,Preston,parttime,Government,26992.5,datascientist,middle_level
+UK Government - Health and Safety Executive,Preston,parttime,Government,26992.5,Unknown,middle_level
+NERC,Preston,fulltime,Organization,23489.0,datascientist,senior_level
+Business Butler Swansea,Swansea,contract,Other,30000.0,Unknown,middle_level
+Business Butler Swansea,Swansea,contract,Other,30000.0,softwareengineer,middle_level
+UK Government - Government Statistical Service,Swansea,parttime,Government,33150.0,medicalofficer,senior_level
+Business Butler Swansea,Swansea,fulltime,Other,30000.0,softwareengineer,middle_level
+Head Resourcing Limited,Bradford,contract,Other,110500.0,testengineer,middle_level
+Head Resourcing Limited,Bradford,contract,Other,143000.0,developmentoperationsengineer,middle_level
+Head Resourcing Limited,Bradford,contract,Other,110500.0,testengineer,senior_level
+Head Resourcing Limited,Bradford,contract,Other,143000.0,rubydeveloper,middle_level
+Head Resourcing Limited,Bradford,contract,Other,143000.0,developmentoperationsengineer,senior_level
+TemplarFox Consultancy,Bradford,fulltime,Other,37500.0,,senior_level
+Ginger Recruitment,Bradford,fulltime,Other,60000.0,Unknown,senior_level
+TemplarFox Consultancy,Bradford,fulltime,Other,37500.0,Unknown,senior_level
+realTime,Belfast,contract,Human Resources and Staffing,80000.0,datascientist,middle_level
+realTime,Belfast,temporary,Human Resources and Staffing,80000.0,datascientist,middle_level
+UK Government - Defence Science and Technology Lab...,Belfast,parttime,Other,37450.0,engineer,middle_level
+Bangor University,Belfast,parttime,Other,36404.5,researcher,middle_level
+Signifyd,Belfast,fulltime,Other,50000.0,datascientist,middle_level
+UK Government - Defence Science and Technology Lab...,Belfast,fulltime,Other,37450.0,engineer,middle_level
+NERC,Derby,fulltime,Organization,20247.5,restorationtechnician,junior_level
+NERC,Derby,fulltime,Organization,20247.5,Unknown,junior_level
+NERC,Derby,fulltime,Organization,25497.5,geologist,middle_level
+NERC,Derby,fulltime,Organization,25854.5,instrumentationengineer,senior_level
+NERC,Derby,fulltime,Organization,39888.5,geologist,senior_level
+Loughborough University,Derby,fulltime,Education and Schools,34500.0,researchassociate,middle_level
+UK Government - Defence Science and Technology Lab...,Southampton,contract,Other,46569.0,datascientist,middle_level
+University of Portsmouth,Southampton,contract,Education and Schools,36835.5,researchfellow,senior_level
+UK Government - Defence Science and Technology Lab...,Southampton,parttime,Other,46569.0,datascientist,middle_level
+Southampton University Hospitals NHS Trust,Southampton,parttime,Health Care,32347.0,Unknown,middle_level
+UK Government - Defence Science and Technology Lab...,Southampton,parttime,Other,32000.0,datascientist,middle_level
+UK Government - Defence Science and Technology Lab...,Southampton,parttime,Other,34000.0,procurement,senior_level
+UK Government - Defence Science and Technology Lab...,Southampton,parttime,Other,37835.0,biologist,middle_level
+Southampton University Hospitals NHS Trust,Southampton,parttime,Health Care,26315.5,registerednurse,middle_level
+UK Government - Defence Science and Technology Lab...,Southampton,fulltime,Other,46569.0,datascientist,middle_level
+Southampton University Hospitals NHS Trust,Southampton,fulltime,Health Care,32347.0,Unknown,middle_level
+Southampton University Hospitals NHS Trust,Southampton,fulltime,Health Care,38131.5,datascientist,middle_level
+UK Government - Defence Science and Technology Lab...,Southampton,fulltime,Other,32000.0,datascientist,middle_level
+UK Government - Defence Science and Technology Lab...,Southampton,fulltime,Other,34000.0,procurement,senior_level
+UK Government - Defence Science and Technology Lab...,Southampton,fulltime,Other,37835.0,biologist,middle_level
+AL Solutions,Southampton,fulltime,Pharmaceuticals,72500.0,r&dengineer,senior_level
+Odstock Medical Ltd,Southampton,fulltime,Other,32000.0,physiotherapist,middle_level
+Southampton University Hospitals NHS Trust,Southampton,fulltime,Health Care,26315.5,registerednurse,middle_level
+Nigel Frank International Limited,Southampton,fulltime,Human Resources and Staffing,42500.0,businessintelligencedeveloper,middle_level
+University of Portsmouth,Southampton,fulltime,Education and Schools,36835.5,researchfellow,senior_level
+Odstock Medical Ltd,Southampton,fulltime,Other,32000.0,Unknown,middle_level
+Earthwatch Europe,Milton+Keynes,parttime,Other,35000.0,datascientist,middle_level
+AquAffirm Ltd,Milton+Keynes,fulltime,Other,26000.0,datascientist,middle_level
+AquAffirm Ltd,Milton+Keynes,fulltime,Other,30000.0,datascientist,senior_level
+Hemel Hempstead Hospital,Milton+Keynes,fulltime,Other,20832.0,Unknown,middle_level
+Global Customer Experience Research Specialists,Milton+Keynes,fulltime,Other,29000.0,project,senior_level
+West Hertfordshire Hospitals NHS Trust,Milton+Keynes,fulltime,Health Care,20832.0,Unknown,middle_level
+Earthwatch Europe,Northampton,parttime,Other,35000.0,datascientist,middle_level
+Wellcome Trust Sanger Institute,Northampton,parttime,Organization,22600.5,animaltechnician,middle_level
+STFC,Northampton,parttime,Other,31677.0,Unknown,middle_level
+Global Customer Experience Research Specialists,Northampton,fulltime,Other,29000.0,project,senior_level
+Scottish Government,Aberdeen,parttime,Government,30992.5,Unknown,middle_level
+Scottish Government,Aberdeen,fulltime,Government,30992.5,Unknown,middle_level
+Teesside University,Newcastle+upon+Tyne,contract,Other,30000.0,datascientist,middle_level
+UK Government - Government Statistical Service,Newcastle+upon+Tyne,parttime,Government,31029.0,Unknown,middle_level
+Accenture,Newcastle+upon+Tyne,fulltime,Consulting and Business Services,49350.0,datascientist,middle_level
+Centre for Process Innovation,Newcastle+upon+Tyne,fulltime,Other,27500.0,datascientist,middle_level
+UK Government - Government Statistical Service,Newcastle+upon+Tyne,fulltime,Government,31029.0,Unknown,middle_level
+Robinson Williams Recruitment Ltd,Newcastle+upon+Tyne,fulltime,Other,82500.0,datascientist,senior_level
+Newcastle University,Newcastle+upon+Tyne,fulltime,Other,28673.0,researchassociate,junior_level
+Newcastle University,Newcastle+upon+Tyne,fulltime,Other,35002.5,faculty,middle_level
+Newcastle University,Newcastle+upon+Tyne,fulltime,Other,35002.5,researchassociate,middle_level
+myfuturerole.com,Swindon,contract,Other,50000.0,clinicalevaluator,middle_level
+myfuturerole.com,Swindon,contract,Other,42500.0,clinicalevaluator,middle_level
+STFC,Swindon,parttime,Other,31677.0,Unknown,middle_level
+M S A Environmental,Swindon,fulltime,Other,23000.0,datascientist,middle_level
+BBSRC,Swindon,fulltime,Other,24777.0,financialofficer,junior_level
+Replimune Ltd,Swindon,fulltime,Other,28000.0,datascientist,junior_level
+Tessella,Swindon,fulltime,Other,30000.0,datascientist,middle_level
+STFC,Swindon,fulltime,Other,39888.5,datascientist,middle_level
+The Rosalind Franklin Institute,Swindon,fulltime,Other,36000.0,datascientist,middle_level
+The Rosalind Franklin Institute,Swindon,fulltime,Other,36000.0,post-doctoralfellow,middle_level
+myfuturerole.com,Swindon,fulltime,Other,50000.0,clinicalevaluator,middle_level
+NERC,Swindon,fulltime,Organization,59023.0,associate,senior_level
+STFC,Swindon,fulltime,Other,37179.0,Unknown,middle_level
+STFC,Swindon,fulltime,Other,34120.5,manufacturingtechnician,middle_level
+STFC,Swindon,fulltime,Other,37179.0,systemsadministrator,middle_level
+STFC,Swindon,fulltime,Other,32620.5,systemsadministrator,middle_level
+STFC,Swindon,fulltime,Other,32620.5,Unknown,middle_level
+STFC,Swindon,fulltime,Other,32120.5,Unknown,middle_level
+Nesta,Croydon,contract,Organization,30000.0,datascientist,junior_level
+Pivigo Ltd,Croydon,contract,Other,130000.0,datascientist,middle_level
+The Institute of Cancer Research,Croydon,contract,Other,27367.0,data,senior_level
+CMW International,Croydon,contract,Other,117000.0,datascientist,middle_level
+J&C Associates Ltd,Croydon,contract,Other,21190.0,datascientist,middle_level
+Nesta,Croydon,contract,Organization,30000.0,studentcoordinator,middle_level
+Lawrence Harvey,Croydon,contract,Other,26000.0,datascientist,middle_level
+Pirbright,Croydon,contract,Other,27355.0,datascientist,middle_level
+La Fosse Associates,Croydon,contract,Human Resources and Staffing,156000.0,datascientist,middle_level
+Lawrence Harvey,Croydon,contract,Other,136500.0,datascientist,middle_level
+Premier Group,Croydon,contract,Other,117000.0,datascientist,senior_level
+Salt Recruitment,Croydon,contract,Consulting and Business Services,143000.0,datascientist,senior_level
+Talent International,Croydon,contract,Human Resources and Staffing,123500.0,datascientist,middle_level
+Blue Pelican,Croydon,contract,Other,110500.0,datascientist,middle_level
+Vitamin T,Croydon,contract,Human Resources and Staffing,85000.0,datascientist,middle_level
+"UK Government - Department for Environment, Food a...",Croydon,contract,Other,120000.0,scientificofficer,senior_level
+Huntress,Croydon,contract,Human Resources and Staffing,72800.0,datascientist,senior_level
+Nicoll Curtin Limited,Croydon,contract,Other,110500.0,datascientist,middle_level
+GCS Recruitment Specialists Ltd,Croydon,contract,Human Resources and Staffing,72800.0,socialmediaspecialist,senior_level
+Investigo,Croydon,contract,Human Resources and Staffing,182000.0,datascientist,middle_level
+Vertex Solutions,Croydon,contract,Other,156000.0,datascientist,middle_level
+Mcgregor Boyall,Croydon,contract,Human Resources and Staffing,175500.0,datascientist,senior_level
+Transport for London,Croydon,contract,Transport and Freight,20231.0,apprentice,junior_level
+onezeero,Croydon,contract,Other,182000.0,datascientist,middle_level
+Vertex Solutions,Croydon,contract,Other,149500.0,datascientist,middle_level
+La Fosse Associates,Croydon,contract,Human Resources and Staffing,156000.0,datascientist,senior_level
+Certus Recruitment Group,Croydon,contract,Human Resources and Staffing,143000.0,datascientist,senior_level
+Transport for London,Croydon,contract,Transport and Freight,20231.0,Unknown,junior_level
+Avantia Group,Croydon,contract,Other,20500.0,customerservicerepresentative,middle_level
+Imperial College London,Croydon,contract,Education and Schools,39172.0,researchassociate,middle_level
+Greater London Authority,Croydon,contract,Other,53822.0,backenddeveloper,middle_level
+Imperial College London,Croydon,contract,Education and Schools,47781.5,researchfellow,middle_level
+Pertemps Network Group,Croydon,contract,Other,156000.0,dataengineer,senior_level
+Pivigo Ltd,Croydon,temporary,Other,130000.0,datascientist,middle_level
+Avantia Group,Croydon,temporary,Other,27000.0,customerspecialist,middle_level
+Salt Recruitment,Croydon,temporary,Consulting and Business Services,143000.0,datascientist,senior_level
+EMR Marketing Recruitment,Croydon,temporary,Other,84500.0,dataanalyst,middle_level
+Avantia Group,Croydon,temporary,Other,20500.0,customerservicerepresentative,middle_level
+Onfido,Croydon,temporary,Other,30000.0,machinelearningengineer,middle_level
+Greater London Authority,Croydon,temporary,Other,53822.0,backenddeveloper,middle_level
+Babylon Health,Croydon,temporary,Health Care,50000.0,deliverydriver,middle_level
+EMR Marketing Recruitment,Croydon,temporary,Other,106600.0,productanalyst,senior_level
+Manpower,Croydon,temporary,Human Resources and Staffing,30000.0,Unknown,middle_level
+Linux Recruit,Croydon,temporary,Other,156000.0,dataengineer,senior_level
+Reedmace Solutions Ltd,Croydon,temporary,Other,75000.0,offinance,senior_level
+Memrise,Croydon,temporary,Other,57500.0,optimization,senior_level
+Middlesex University London,Croydon,temporary,Other,40320.5,researchfellow,middle_level
+University of London,Croydon,internship,Education and Schools,25000.0,softwaredevelopment,middle_level
+Onfido,Croydon,internship,Other,30000.0,machinelearningengineer,middle_level
+Shell Trading,Croydon,internship,Energy and Utilities,55000.0,quantitativeanalyst,middle_level
+Inspiring Interns,Croydon,internship,Other,22000.0,marketingexecutive,senior_level
+"UK Government - Department for Environment, Food a...",Croydon,parttime,Other,46612.0,airqualityengineer,senior_level
+"UK Government - Department for Business, Energy &...",Croydon,parttime,Other,28455.5,administrative,senior_level
+"UK Government - Ministry of Housing, Communities &...",Croydon,parttime,Other,26808.0,Unknown,middle_level
+Guy's and St Thomas' NHS Foundation Trust,Croydon,parttime,Health Care,44785.0,datascientist,senior_level
+UK Government - Animal and Plant Health Agency,Croydon,parttime,Government,33768.0,datascientist,senior_level
+Campaign for Science and Engineering,Croydon,parttime,Other,37000.0,engagement,senior_level
+Campaign for Science and Engineering,Croydon,parttime,Other,37000.0,Unknown,senior_level
+Tec Partners,Croydon,fulltime,Other,35000.0,datascientist,middle_level
+London Borough of Redbridge,Croydon,fulltime,Other,23978.0,datascientist,middle_level
+Unmortgage,Croydon,fulltime,Other,75000.0,datascientist,senior_level
+MarketInvoice,Croydon,fulltime,Other,50000.0,datascientist,middle_level
+Explore AI Limited,Croydon,fulltime,Other,40000.0,datascientist,middle_level
+Deputi AI,Croydon,fulltime,Other,50000.0,datascientist,middle_level
+Pivigo Ltd,Croydon,fulltime,Other,130000.0,datascientist,middle_level
+Streetbees,Croydon,fulltime,Other,75000.0,datascientist,senior_level
+ComplyAdvantage,Croydon,fulltime,Other,65000.0,datascientist,senior_level
+causaLens,Croydon,fulltime,Other,45000.0,datascientist,middle_level
+Braingraph Ltd.,Croydon,fulltime,Other,27500.0,dataanalyst,middle_level
+Ministry of Justice,Croydon,fulltime,Other,30078.0,psychologist,middle_level
+The Institute of Cancer Research,Croydon,fulltime,Other,27367.0,data,senior_level
+Quantexa,Croydon,fulltime,Other,82500.0,datascientist,middle_level
+Picked.ai,Croydon,fulltime,Other,35000.0,Unknown,middle_level
+Avantia Group,Croydon,fulltime,Other,27000.0,customerspecialist,middle_level
+Forward3D,Croydon,fulltime,Other,45000.0,datascientist,middle_level
+Aiimi Ltd,Croydon,fulltime,Other,60000.0,datascientist,senior_level
+BMLL Technologies Ltd,Croydon,fulltime,Other,70000.0,datascientist,senior_level
+Metrica Recruitment,Croydon,fulltime,Consulting and Business Services,52500.0,Unknown,senior_level
+Transport for London,Croydon,apprenticeship,Transport and Freight,20231.0,apprentice,junior_level
+Shell Trading,Croydon,apprenticeship,Energy and Utilities,55000.0,quantitativeanalyst,middle_level
+Transport for London,Croydon,apprenticeship,Transport and Freight,20231.0,Unknown,junior_level
+CK Group,Oxford,contract,Human Resources and Staffing,49920.0,datascientist,junior_level
+myfuturerole.com,Oxford,contract,Other,50000.0,clinicalevaluator,middle_level
+myfuturerole.com,Oxford,contract,Other,42500.0,clinicalevaluator,middle_level
+Lawrence Harvey,Oxford,contract,Other,143000.0,developmentoperationsengineer,middle_level
+University of Reading,Oxford,temporary,Education and Schools,33328.0,datascientist,middle_level
+Earthwatch Europe,Oxford,parttime,Other,35000.0,datascientist,middle_level
+STFC,Oxford,parttime,Other,31677.0,Unknown,middle_level
+Oxbotica,Oxford,fulltime,Other,65000.0,datascientist,middle_level
+Earthwatch Europe,Oxford,fulltime,Other,35000.0,datascientist,middle_level
+Replimune Ltd,Oxford,fulltime,Other,28000.0,datascientist,junior_level
+Ultromics,Oxford,fulltime,Health Care,55000.0,datascientist,middle_level
+Tessella,Oxford,fulltime,Other,30000.0,datascientist,middle_level
+MacrophOx Limited,Oxford,fulltime,Other,38500.0,datascientist,middle_level
+MacrophOx Limited,Oxford,fulltime,Other,38500.0,datascientist,senior_level
+STFC,Oxford,fulltime,Other,32120.5,Unknown,middle_level
+Dativa,Oxford,fulltime,Other,32000.0,datascientist,junior_level
+Dativa,Oxford,fulltime,Other,32000.0,Unknown,junior_level
+The University of Manchester,Warrington,contract,Education and Schools,35922.5,researchassociate,senior_level
+CK Group,Warrington,contract,Human Resources and Staffing,26169.0,datascientist,middle_level
+Scantec,Warrington,contract,Human Resources and Staffing,31000.0,datascientist,middle_level
+University of Salford,Warrington,contract,Other,27525.0,databasedeveloper,middle_level
+The University of Manchester,Warrington,contract,Education and Schools,35922.5,researchassociate,middle_level
+Quantexa,Warrington,temporary,Other,20400.0,datascientist,middle_level
+Quantexa,Warrington,internship,Other,20400.0,datascientist,middle_level
+UK Government - Health and Safety Executive,Warrington,parttime,Government,26992.5,datascientist,middle_level
+Crowder Consulting,Warrington,fulltime,Other,22500.0,datascientist,middle_level
+STFC,Warrington,fulltime,Other,40447.0,datascientist,middle_level
+H.t.E Recruitment,Warrington,fulltime,Other,70000.0,datascientist,senior_level
+STFC,Warrington,fulltime,Other,37679.0,datascientist,middle_level
+STFC,Warrington,fulltime,Other,36679.0,datascientist,middle_level
+Search Consultancy,Warrington,fulltime,Human Resources and Staffing,33000.0,datascientist,middle_level
+STFC,Warrington,fulltime,Other,32120.5,softwareengineer,middle_level
+Search Consultancy,Warrington,fulltime,Human Resources and Staffing,31000.0,datascientist,middle_level
+Nexus Recruitment,Warrington,fulltime,Other,82500.0,datascientist,senior_level
+STFC,Warrington,fulltime,Other,41447.0,softwareengineer,middle_level
+LiCa Scientific Ltd,Warrington,fulltime,Other,32500.0,datascientist,middle_level
+STFC,Warrington,fulltime,Other,36679.0,Unknown,middle_level
+Search Consultancy,Warrington,fulltime,Human Resources and Staffing,41000.0,datascientist,senior_level
+Spectra Analytics,Warrington,fulltime,Other,32500.0,softwaretrainer,senior_level
+Aspire Recruitment Partnership,Warrington,fulltime,Other,20404.0,projectofficer,junior_level
+Veramed,Warrington,fulltime,Other,48000.0,statistician,senior_level
+The Christie Hospital NHS Foundation Trust,Warrington,fulltime,Health Care,38131.5,statistician,middle_level
+myfuturerole.com,Warrington,fulltime,Other,70000.0,machinelearningengineer,middle_level
+STFC,Warrington,fulltime,Other,40447.0,Unknown,middle_level
+Nesta,Slough,contract,Organization,30000.0,datascientist,junior_level
+Pivigo Ltd,Slough,contract,Other,130000.0,datascientist,middle_level
+CMW International,Slough,contract,Other,117000.0,datascientist,middle_level
+La Fosse Associates,Slough,contract,Human Resources and Staffing,156000.0,datascientist,middle_level
+J&C Associates Ltd,Slough,contract,Other,21190.0,datascientist,middle_level
+Premier Group,Slough,contract,Other,117000.0,datascientist,senior_level
+Salt Recruitment,Slough,contract,Consulting and Business Services,143000.0,datascientist,senior_level
+Pirbright,Slough,contract,Other,27355.0,datascientist,middle_level
+Lawrence Harvey,Slough,contract,Other,136500.0,datascientist,middle_level
+Talent International,Slough,contract,Human Resources and Staffing,123500.0,datascientist,middle_level
+Blue Pelican,Slough,contract,Other,110500.0,datascientist,middle_level
+Nicoll Curtin Limited,Slough,contract,Other,110500.0,datascientist,middle_level
+Lawrence Harvey,Slough,contract,Other,26000.0,datascientist,middle_level
+Nesta,Slough,contract,Organization,30000.0,studentcoordinator,middle_level
+Investigo,Slough,contract,Human Resources and Staffing,182000.0,datascientist,middle_level
+The Institute of Cancer Research,Slough,contract,Other,27367.0,data,senior_level
+onezeero,Slough,contract,Other,182000.0,datascientist,middle_level
+"UK Government - Department for Environment, Food a...",Slough,contract,Other,120000.0,scientificofficer,senior_level
+Huntress,Slough,contract,Human Resources and Staffing,72800.0,datascientist,senior_level
+CK Group,Slough,contract,Human Resources and Staffing,25000.0,datascientist,senior_level
+Vertex Solutions,Slough,contract,Other,156000.0,datascientist,middle_level
+Vitamin T,Slough,contract,Human Resources and Staffing,85000.0,datascientist,middle_level
+Mcgregor Boyall,Slough,contract,Human Resources and Staffing,175500.0,datascientist,middle_level
+GCS Recruitment Specialists Ltd,Slough,contract,Human Resources and Staffing,72800.0,socialmediaspecialist,senior_level
+Vertex Solutions,Slough,contract,Other,149500.0,datascientist,middle_level
+La Fosse Associates,Slough,contract,Human Resources and Staffing,156000.0,datascientist,senior_level
+Certus Recruitment Group,Slough,contract,Human Resources and Staffing,143000.0,datascientist,senior_level
+Transport for London,Slough,contract,Transport and Freight,20231.0,apprentice,junior_level
+Pertemps Network Group,Slough,contract,Other,156000.0,dataengineer,senior_level
+CK Group,Slough,contract,Human Resources and Staffing,49920.0,datascientist,junior_level
+Nexus Recruitment,Slough,contract,Other,97500.0,dataanalyst,junior_level
+La Fosse Associates,Slough,contract,Human Resources and Staffing,110500.0,dataproject,senior_level
+CK Group,Slough,contract,Human Resources and Staffing,80080.0,datascientist,middle_level
+Investigo,Slough,contract,Human Resources and Staffing,42500.0,fp&aanalyst,middle_level
+Transport for London,Slough,contract,Transport and Freight,20231.0,Unknown,junior_level
+Pivigo Ltd,Slough,temporary,Other,130000.0,datascientist,senior_level
+Salt Recruitment,Slough,temporary,Consulting and Business Services,143000.0,datascientist,senior_level
+EMR Marketing Recruitment,Slough,temporary,Other,84500.0,dataanalyst,middle_level
+Avantia Group,Slough,temporary,Other,27000.0,customerspecialist,middle_level
+University of Reading,Slough,temporary,Education and Schools,33328.0,datascientist,middle_level
+Greater London Authority,Slough,temporary,Other,53822.0,backenddeveloper,senior_level
+Onfido,Slough,temporary,Other,30000.0,machinelearningengineer,middle_level
+Greater London Authority,Slough,temporary,Other,53822.0,backenddeveloper,middle_level
+EMR Marketing Recruitment,Slough,temporary,Other,106600.0,productanalyst,senior_level
+Babylon Health,Slough,temporary,Health Care,50000.0,deliverydriver,middle_level
+Manpower,Slough,temporary,Human Resources and Staffing,30000.0,Unknown,middle_level
+Linux Recruit,Slough,temporary,Other,156000.0,dataengineer,senior_level
+Avantia Group,Slough,temporary,Other,20500.0,customerservicerepresentative,middle_level
+Reedmace Solutions Ltd,Slough,temporary,Other,75000.0,offinance,senior_level
+Middlesex University London,Slough,temporary,Other,40320.5,researchfellow,middle_level
+Memrise,Slough,temporary,Other,57500.0,optimization,senior_level
+University of London,Slough,internship,Education and Schools,25000.0,softwaredevelopment,middle_level
+Shell Trading,Slough,internship,Energy and Utilities,55000.0,quantitativeanalyst,middle_level
+Onfido,Slough,internship,Other,30000.0,machinelearningengineer,middle_level
+Inspiring Interns,Slough,internship,Other,22000.0,marketingexecutive,senior_level
+"UK Government - Department for Environment, Food a...",Slough,parttime,Other,46612.0,airqualityengineer,senior_level
+"UK Government - Ministry of Housing, Communities &...",Slough,parttime,Other,26808.0,Unknown,middle_level
+"UK Government - Department for Business, Energy &...",Slough,parttime,Other,28455.5,administrative,senior_level
+UK Government - Animal and Plant Health Agency,Slough,parttime,Government,33768.0,datascientist,senior_level
+Guy's and St Thomas' NHS Foundation Trust,Slough,parttime,Health Care,44785.0,datascientist,senior_level
+Campaign for Science and Engineering,Slough,parttime,Other,37000.0,engagement,senior_level
+Campaign for Science and Engineering,Slough,parttime,Other,37000.0,Unknown,senior_level
+Unmortgage,Slough,fulltime,Other,75000.0,datascientist,senior_level
+Tec Partners,Slough,fulltime,Other,35000.0,datascientist,middle_level
+Pivigo Ltd,Slough,fulltime,Other,130000.0,datascientist,middle_level
+Deputi AI,Slough,fulltime,Other,50000.0,datascientist,middle_level
+MarketInvoice,Slough,fulltime,Other,50000.0,datascientist,middle_level
+Streetbees,Slough,fulltime,Other,75000.0,datascientist,senior_level
+British Car Auctions,Slough,fulltime,Transport and Freight,50000.0,datascientist,senior_level
+Explore AI Limited,Slough,fulltime,Other,40000.0,datascientist,middle_level
+causaLens,Slough,fulltime,Other,45000.0,datascientist,middle_level
+ComplyAdvantage,Slough,fulltime,Other,65000.0,datascientist,senior_level
+Quantexa,Slough,fulltime,Other,82500.0,datascientist,middle_level
+Forward3D,Slough,fulltime,Other,45000.0,datascientist,middle_level
+Picked.ai,Slough,fulltime,Other,35000.0,Unknown,middle_level
+Ministry of Justice,Slough,fulltime,Other,30078.0,psychologist,middle_level
+Braingraph Ltd.,Slough,fulltime,Other,27500.0,dataanalyst,middle_level
+Cytora,Slough,fulltime,Other,70000.0,datascientist,senior_level
+Metrica Recruitment,Slough,fulltime,Consulting and Business Services,52500.0,Unknown,senior_level
+Dativa,Slough,fulltime,Other,32000.0,Unknown,junior_level
+Transport for London,Slough,apprenticeship,Transport and Freight,20231.0,apprentice,junior_level
+Shell Trading,Slough,apprenticeship,Energy and Utilities,55000.0,quantitativeanalyst,middle_level
+Shell Trading,Slough,apprenticeship,Energy and Utilities,55000.0,Unknown,middle_level
+Transport for London,Slough,apprenticeship,Transport and Freight,20231.0,Unknown,junior_level
+Anglian Water Services Ltd,Peterborough,fulltime,Other,20000.0,laboratoryanalyst,middle_level
+CJ Employment Solutions,Peterborough,fulltime,Other,41000.0,Unknown,senior_level
+myfuturerole.com,Peterborough,fulltime,Other,55000.0,dataengineer,middle_level
+Bluebolt Recruitment,Peterborough,fulltime,Industrial Manufacturing,34500.0,Unknown,middle_level
+CJ Employment Solutions,Peterborough,fulltime,Other,41000.0,statistician,senior_level
+Anglian Water Services Ltd,Peterborough,fulltime,Other,20000.0,Unknown,middle_level
+MRC Laboratory of Molecular Biology,Cambridge,contract,Other,31884.5,datascientist,middle_level
+MRC Laboratory of Molecular Biology,Cambridge,contract,Other,32334.5,datascientist,middle_level
+CK Group,Cambridge,contract,Human Resources and Staffing,41600.0,datascientist,junior_level
+CK Group,Cambridge,contract,Human Resources and Staffing,31200.0,dataanalyst,middle_level
+CK Group,Cambridge,contract,Human Resources and Staffing,23920.0,datascientist,senior_level
+CK Group,Cambridge,contract,Human Resources and Staffing,46800.0,datascientist,middle_level
+CK Group,Cambridge,contract,Human Resources and Staffing,46800.0,datascientist,senior_level
+CK Group,Cambridge,contract,Human Resources and Staffing,28080.0,processengineer,senior_level
+Wellcome Trust Sanger Institute,Cambridge,parttime,Organization,22600.5,animaltechnician,middle_level
+IntelliSense.io,Cambridge,fulltime,Other,35000.0,datascientist,middle_level
+British Antarctic Survey,Cambridge,fulltime,Other,30357.0,datascientist,middle_level
+Astex Pharmaceuticals,Cambridge,fulltime,Other,45000.0,datascientist,junior_level
+Echion Technologies,Cambridge,fulltime,Other,21500.0,chemist,junior_level
+Exact Sourcing ltd,Cambridge,fulltime,Other,55000.0,datascientist,middle_level
+Sphere Medical Ltd,Cambridge,fulltime,Other,45000.0,datascientist,senior_level
+Anglian Water Services Ltd,Cambridge,fulltime,Other,20000.0,laboratoryanalyst,middle_level
+Anglian Water Services Ltd,Cambridge,fulltime,Other,20000.0,Unknown,middle_level
+Echion Technologies,Cambridge,fulltime,Other,21500.0,Unknown,junior_level
+Head Resourcing Limited,Doncaster,contract,Other,110500.0,testengineer,senior_level
+Head Resourcing Limited,Doncaster,contract,Other,143000.0,developmentoperationsengineer,senior_level
+University of Lincoln,Doncaster,contract,Education and Schools,33199.0,researchfellow,middle_level
+Head Resourcing Limited,Doncaster,contract,Other,110500.0,testengineer,middle_level
+Head Resourcing Limited,Doncaster,contract,Other,143000.0,rubydeveloper,middle_level
+Head Resourcing Limited,Doncaster,contract,Other,143000.0,developmentoperationsengineer,middle_level
+Ossila Ltd,Doncaster,fulltime,Other,30000.0,Unknown,middle_level
+Ossila Ltd,Doncaster,fulltime,Other,30000.0,seospecialist,middle_level
+University of Sheffield,Doncaster,fulltime,Education and Schools,35455.5,researchassociate,middle_level
+Head Resourcing Limited,York,contract,Other,110500.0,testengineer,senior_level
+Head Resourcing Limited,York,contract,Other,143000.0,developmentoperationsengineer,senior_level
+Head Resourcing Limited,York,contract,Other,110500.0,testengineer,middle_level
+Head Resourcing Limited,York,contract,Other,143000.0,rubydeveloper,middle_level
+Head Resourcing Limited,York,contract,Other,143000.0,developmentoperationsengineer,middle_level
+Ministry of Justice,York,fulltime,Other,38387.5,chaplain,senior_level
+Searchability,Gloucester,contract,Internet and Software,31200.0,testanalyst,middle_level
+Wildfowl and Wetlands Trust,Gloucester,fulltime,Other,22975.0,researcher,middle_level
+Social Energy,Gloucester,fulltime,Other,32000.0,commercialanalyst,middle_level
+Ripjar,Gloucester,fulltime,Other,52500.0,machinelearningengineer,middle_level
+Social Energy,Gloucester,fulltime,Other,42500.0,businessintelligencedeveloper,middle_level
+RSK ADAS Ltd,Gloucester,fulltime,Other,21000.0,engineeringconsultant,middle_level
+Head Resourcing Limited,Dundee,contract,Other,91000.0,pythondeveloper,senior_level
+Morson International,Dundee,contract,Human Resources and Staffing,83200.0,oracledeveloper,middle_level
+Morson International,Dundee,temporary,Human Resources and Staffing,83200.0,oracledeveloper,middle_level
+University of Salford,Blackburn,contract,Other,27525.0,databasedeveloper,middle_level
+The University of Manchester,Blackburn,contract,Education and Schools,35922.5,researchassociate,senior_level
+The University of Manchester,Blackburn,contract,Education and Schools,35922.5,researchassociate,middle_level
+Quantexa,Blackburn,internship,Other,20400.0,datascientist,middle_level
+UK Government - Health and Safety Executive,Blackburn,parttime,Government,26992.5,datascientist,middle_level
+NERC,Blackburn,fulltime,Organization,23489.0,datascientist,senior_level
+H.t.E Recruitment,Blackburn,fulltime,Other,70000.0,datascientist,senior_level
+Nexus Recruitment,Blackburn,fulltime,Other,82500.0,datascientist,senior_level
+LiCa Scientific Ltd,Blackburn,fulltime,Other,32500.0,datascientist,middle_level
+Spectra Analytics,Blackburn,fulltime,Other,32500.0,softwaretrainer,senior_level
+Ginger Recruitment,Blackburn,fulltime,Other,60000.0,Unknown,senior_level
+Aspire Recruitment Partnership,Blackburn,fulltime,Other,20404.0,projectofficer,junior_level
+The Christie Hospital NHS Foundation Trust,Blackburn,fulltime,Health Care,38131.5,statistician,middle_level
+Veramed,Blackburn,fulltime,Other,48000.0,statistician,senior_level
+University of Salford,Blackburn,fulltime,Other,27525.0,databasedeveloper,middle_level
+myfuturerole.com,Blackburn,fulltime,Other,70000.0,machinelearningengineer,middle_level
+Brooks Life Science Systems,Blackburn,fulltime,Other,32500.0,Unknown,middle_level
+UK Government - Health and Safety Executive,Stockport,contract,Government,26992.5,datascientist,middle_level
+University of Salford,Stockport,contract,Other,27525.0,databasedeveloper,middle_level
+The University of Manchester,Stockport,contract,Education and Schools,35922.5,researchassociate,middle_level
+UK Government - Health and Safety Executive,Stockport,temporary,Government,26992.5,datascientist,middle_level
+Quantexa,Stockport,internship,Other,20400.0,datascientist,middle_level
+UK Government - Health and Safety Executive,Stockport,parttime,Government,26992.5,datascientist,middle_level
+H.t.E Recruitment,Stockport,fulltime,Other,70000.0,Unknown,senior_level
+UK Government - Health and Safety Executive,Stockport,fulltime,Government,26992.5,Unknown,middle_level
+Nexus Recruitment,Stockport,fulltime,Other,82500.0,datascientist,senior_level
+STFC,Stockport,fulltime,Other,37679.0,datascientist,middle_level
+LiCa Scientific Ltd,Stockport,fulltime,Other,32500.0,datascientist,middle_level
+Spectra Analytics,Stockport,fulltime,Other,32500.0,softwaretrainer,senior_level
+STFC,Stockport,fulltime,Other,36679.0,datascientist,middle_level
+Brooks Life Science Systems,Stockport,fulltime,Other,32500.0,Unknown,middle_level
+The Christie Hospital NHS Foundation Trust,Stockport,fulltime,Health Care,38131.5,statistician,middle_level
+Aspire Recruitment Partnership,Stockport,fulltime,Other,20404.0,projectofficer,junior_level
+Veramed,Stockport,fulltime,Other,48000.0,statistician,senior_level
+myfuturerole.com,Stockport,fulltime,Other,70000.0,machinelearningengineer,middle_level
+STFC,Stockport,fulltime,Other,32120.5,softwareengineer,middle_level
+University of Salford,Stockport,fulltime,Other,27525.0,databasedeveloper,middle_level
+STFC,Stockport,fulltime,Other,41447.0,softwareengineer,middle_level
+STFC,Stockport,fulltime,Other,36679.0,Unknown,middle_level
+STFC,Stockport,fulltime,Other,40447.0,Unknown,middle_level
+Southern Water,Brighton,contract,Other,27000.0,controller,middle_level
+Southern Water,Brighton,temporary,Other,27000.0,controller,middle_level
+"UK Government - Department for Environment, Food a...",Brighton,parttime,Other,46612.0,airqualityengineer,senior_level
+"UK Government - Ministry of Housing, Communities &...",Brighton,parttime,Other,26808.0,Unknown,middle_level
+"UK Government - Department for Business, Energy &...",Brighton,parttime,Other,28455.5,administrative,senior_level
+Guy's and St Thomas' NHS Foundation Trust,Brighton,parttime,Health Care,44785.0,datascientist,senior_level
+UK Government - Animal and Plant Health Agency,Brighton,parttime,Government,33768.0,datascientist,senior_level
+UK Government - Defence Science and Technology Lab...,Brighton,parttime,Other,34000.0,procurement,senior_level
+Campaign for Science and Engineering,Brighton,parttime,Other,37000.0,engagement,senior_level
+Campaign for Science and Engineering,Brighton,parttime,Other,37000.0,Unknown,senior_level
+Envitia,Brighton,fulltime,Other,55000.0,datascientist,senior_level
+CGG,Brighton,fulltime,Other,32000.0,datascientist,middle_level
+Southern Water,Brighton,fulltime,Other,58606.0,Unknown,senior_level
+Southern Water,Brighton,fulltime,Other,27000.0,controller,middle_level
+Southern Water,Brighton,fulltime,Other,42800.0,performance,senior_level
+SOUTHERN WATER SERVICES,Brighton,fulltime,Other,34800.0,alauditor,junior_level
+Transport for London,Brighton,apprenticeship,Transport and Freight,20231.0,apprentice,junior_level
+Shell Trading,Brighton,apprenticeship,Energy and Utilities,55000.0,quantitativeanalyst,middle_level
+Transport for London,Brighton,apprenticeship,Transport and Freight,20231.0,Unknown,junior_level
+CY Partner,Exeter,contract,Other,87360.0,datascientist,middle_level
+UK Hydrographic Office,Exeter,parttime,Government,47556.5,softwarearchitect,middle_level
+UK Hydrographic Office,Exeter,fulltime,Government,47556.5,softwarearchitect,middle_level
+Pivigo Ltd,Chelmsford,temporary,Other,130000.0,datascientist,middle_level
+Salt Recruitment,Chelmsford,temporary,Consulting and Business Services,143000.0,datascientist,middle_level
+Onfido,Chelmsford,temporary,Other,30000.0,machinelearningengineer,middle_level
+Babylon Health,Chelmsford,temporary,Health Care,50000.0,deliverydriver,middle_level
+Greater London Authority,Chelmsford,temporary,Other,53822.0,backenddeveloper,middle_level
+EMR Marketing Recruitment,Chelmsford,temporary,Other,106600.0,productanalyst,senior_level
+Linux Recruit,Chelmsford,temporary,Other,156000.0,dataengineer,senior_level
+Memrise,Chelmsford,temporary,Other,57500.0,optimization,senior_level
+Reedmace Solutions Ltd,Chelmsford,temporary,Other,75000.0,offinance,senior_level
+Middlesex University London,Chelmsford,temporary,Other,40320.5,researchfellow,middle_level
+University of London,Chelmsford,internship,Education and Schools,25000.0,softwaredevelopment,middle_level
+Onfido,Chelmsford,internship,Other,30000.0,machinelearningengineer,middle_level
+Shell Trading,Chelmsford,internship,Energy and Utilities,55000.0,quantitativeanalyst,middle_level
+Inspiring Interns,Chelmsford,internship,Other,22000.0,marketingexecutive,senior_level
+"UK Government - Department for Environment, Food a...",Chelmsford,parttime,Other,46612.0,airqualityengineer,senior_level
+"UK Government - Ministry of Housing, Communities &...",Chelmsford,parttime,Other,26808.0,Unknown,middle_level
+"UK Government - Department for Business, Energy &...",Chelmsford,parttime,Other,28455.5,administrative,senior_level
+Wellcome Trust Sanger Institute,Chelmsford,parttime,Organization,22600.5,animaltechnician,middle_level
+Guy's and St Thomas' NHS Foundation Trust,Chelmsford,parttime,Health Care,44785.0,datascientist,senior_level
+Campaign for Science and Engineering,Chelmsford,parttime,Other,37000.0,engagement,senior_level
+Campaign for Science and Engineering,Chelmsford,parttime,Other,37000.0,Unknown,senior_level
+London Borough of Redbridge,Chelmsford,fulltime,Other,23978.0,datascientist,middle_level
+Barking Havering and Redbridge Univ Hospitals NHS...,Chelmsford,fulltime,Other,22058.0,laboratory,junior_level
+Oxygen Digital Recruitment,Chelmsford,fulltime,Other,25500.0,Unknown,middle_level
+Newham Council,Chelmsford,fulltime,Other,35000.5,customerserviceanalyst,middle_level
+Oxygen Digital Recruitment,Chelmsford,fulltime,Other,26500.0,recruitmentconsultant,middle_level
+ICS Group Of Companies,Chelmsford,fulltime,Other,32500.0,webcontentspecialist,middle_level
+Pirbright,Basingstoke,contract,Other,27355.0,datascientist,middle_level
+Lawrence Harvey,Basingstoke,contract,Other,143000.0,developmentoperationsengineer,middle_level
+University of Reading,Basingstoke,temporary,Education and Schools,33328.0,datascientist,middle_level
+STFC,Basingstoke,parttime,Other,31677.0,Unknown,middle_level
+Deputi AI,Basingstoke,fulltime,Other,50000.0,datascientist,middle_level
+British Car Auctions,Basingstoke,fulltime,Transport and Freight,50000.0,datascientist,senior_level
+Pirbright,Basingstoke,fulltime,Other,27355.0,datascientist,middle_level
+STFC,Basingstoke,fulltime,Other,32620.5,Unknown,middle_level
+Dativa,Basingstoke,fulltime,Other,32000.0,datascientist,junior_level
+AWE,Basingstoke,fulltime,Other,25000.0,buyer,junior_level
+Atomic Weapons Establishment,Basingstoke,fulltime,Other,25000.0,buyer,junior_level
+Ad Warrior,Basingstoke,fulltime,Other,42500.0,datascientist,middle_level
+STFC,Basingstoke,fulltime,Other,32120.5,Unknown,middle_level
+STFC,Basingstoke,fulltime,Other,37179.0,Unknown,middle_level
+University of Reading,Basingstoke,fulltime,Education and Schools,33328.0,datascientist,middle_level
+Dativa,Basingstoke,fulltime,Other,32000.0,Unknown,junior_level
+Nesta,Maidstone,contract,Organization,30000.0,datascientist,junior_level
+Pivigo Ltd,Maidstone,contract,Other,130000.0,datascientist,middle_level
+CMW International,Maidstone,contract,Other,117000.0,datascientist,middle_level
+J&C Associates Ltd,Maidstone,contract,Other,21190.0,datascientist,middle_level
+La Fosse Associates,Maidstone,contract,Human Resources and Staffing,156000.0,datascientist,middle_level
+Lawrence Harvey,Maidstone,contract,Other,136500.0,datascientist,middle_level
+Salt Recruitment,Maidstone,contract,Consulting and Business Services,143000.0,datascientist,senior_level
+Talent International,Maidstone,contract,Human Resources and Staffing,123500.0,datascientist,middle_level
+Blue Pelican,Maidstone,contract,Other,110500.0,Unknown,middle_level
+"UK Government - Department for Environment, Food a...",Maidstone,contract,Other,120000.0,Unknown,senior_level
+Nesta,Maidstone,contract,Organization,30000.0,Unknown,middle_level
+Premier Group,Maidstone,contract,Other,117000.0,Unknown,senior_level
+Lawrence Harvey,Maidstone,contract,Other,26000.0,Unknown,middle_level
+The Institute of Cancer Research,Maidstone,contract,Other,27367.0,Unknown,senior_level
+Vitamin T,Maidstone,contract,Human Resources and Staffing,85000.0,Unknown,middle_level
+Huntress,Maidstone,contract,Human Resources and Staffing,72800.0,Unknown,senior_level
+GCS Recruitment Specialists Ltd,Maidstone,contract,Human Resources and Staffing,72800.0,socialmediaspecialist,senior_level
+Mcgregor Boyall,Maidstone,contract,Human Resources and Staffing,175500.0,datascientist,middle_level
+onezeero,Maidstone,contract,Other,182000.0,datascientist,middle_level
+Nicoll Curtin Limited,Maidstone,contract,Other,110500.0,datascientist,middle_level
+Vertex Solutions,Maidstone,contract,Other,156000.0,datascientist,middle_level
+Investigo,Maidstone,contract,Human Resources and Staffing,182000.0,datascientist,middle_level
+Vertex Solutions,Maidstone,contract,Other,149500.0,datascientist,middle_level
+La Fosse Associates,Maidstone,contract,Human Resources and Staffing,156000.0,datascientist,senior_level
+Transport for London,Maidstone,contract,Transport and Freight,20231.0,apprentice,junior_level
+Certus Recruitment Group,Maidstone,contract,Human Resources and Staffing,143000.0,datascientist,senior_level
+Transport for London,Maidstone,contract,Transport and Freight,20231.0,Unknown,junior_level
+Red10,Maidstone,contract,Other,136500.0,datascientist,senior_level
+Vertex Solutions,Maidstone,contract,Other,201500.0,datascientist,senior_level
+Imperial College London,Maidstone,contract,Education and Schools,47781.5,researchfellow,middle_level
+La Fosse Associates,Maidstone,contract,Human Resources and Staffing,110500.0,dataproject,senior_level
+Nexus Recruitment,Maidstone,contract,Other,97500.0,dataanalyst,junior_level
+Pivigo Ltd,Maidstone,temporary,Other,130000.0,datascientist,middle_level
+Salt Recruitment,Maidstone,temporary,Consulting and Business Services,143000.0,datascientist,senior_level
+Avantia Group,Maidstone,temporary,Other,27000.0,customerspecialist,middle_level
+Onfido,Maidstone,temporary,Other,30000.0,machinelearningengineer,middle_level
+Babylon Health,Maidstone,temporary,Health Care,50000.0,deliverydriver,middle_level
+Greater London Authority,Maidstone,temporary,Other,53822.0,backenddeveloper,middle_level
+EMR Marketing Recruitment,Maidstone,temporary,Other,106600.0,productanalyst,middle_level
+Avantia Group,Maidstone,temporary,Other,20500.0,customerservicerepresentative,middle_level
+Linux Recruit,Maidstone,temporary,Other,156000.0,dataengineer,senior_level
+Reedmace Solutions Ltd,Maidstone,temporary,Other,75000.0,offinance,senior_level
+Memrise,Maidstone,temporary,Other,57500.0,optimization,senior_level
+University of London,Maidstone,internship,Education and Schools,25000.0,softwaredevelopment,junior_level
+Onfido,Maidstone,internship,Other,30000.0,machinelearningengineer,middle_level
+Shell Trading,Maidstone,internship,Energy and Utilities,55000.0,quantitativeanalyst,middle_level
+Inspiring Interns,Maidstone,internship,Other,22000.0,marketingexecutive,senior_level
+"UK Government - Department for Environment, Food a...",Maidstone,parttime,Other,46612.0,airqualityengineer,senior_level
+"UK Government - Ministry of Housing, Communities &...",Maidstone,parttime,Other,26808.0,Unknown,middle_level
+"UK Government - Department for Business, Energy &...",Maidstone,parttime,Other,28455.5,administrative,senior_level
+Guy's and St Thomas' NHS Foundation Trust,Maidstone,parttime,Health Care,44785.0,datascientist,senior_level
+Campaign for Science and Engineering,Maidstone,parttime,Other,37000.0,engagement,senior_level
+Campaign for Science and Engineering,Maidstone,parttime,Other,37000.0,Unknown,senior_level
+Transport for London,Maidstone,apprenticeship,Transport and Freight,20231.0,apprentice,junior_level
+Shell Trading,Maidstone,apprenticeship,Energy and Utilities,55000.0,quantitativeanalyst,middle_level
+Transport for London,Maidstone,apprenticeship,Transport and Freight,20231.0,Unknown,junior_level
+CK Group,Chester,contract,Human Resources and Staffing,26169.0,datascientist,middle_level
+Scantec,Chester,contract,Human Resources and Staffing,31000.0,datascientist,middle_level
+Quantexa,Chester,temporary,Other,20400.0,datascientist,middle_level
+Quantexa,Chester,internship,Other,20400.0,Unknown,middle_level
+Quantexa,Chester,internship,Other,20400.0,datascientist,middle_level
+UK Government - Health and Safety Executive,Chester,parttime,Government,26992.5,datascientist,middle_level
+Crowder Consulting,Chester,fulltime,Other,22500.0,datascientist,middle_level
+STFC,Chester,fulltime,Other,40447.0,datascientist,middle_level
+STFC,Chester,fulltime,Other,37679.0,datascientist,middle_level
+Search Consultancy,Chester,fulltime,Human Resources and Staffing,33000.0,datascientist,middle_level
+STFC,Chester,fulltime,Other,36679.0,datascientist,middle_level
+Search Consultancy,Chester,fulltime,Human Resources and Staffing,31000.0,datascientist,middle_level
+STFC,Chester,fulltime,Other,36679.0,Unknown,middle_level
+Search Consultancy,Chester,fulltime,Human Resources and Staffing,41000.0,datascientist,senior_level
+STFC,Chester,fulltime,Other,32120.5,softwareengineer,middle_level
+STFC,Chester,fulltime,Other,41447.0,softwareengineer,middle_level
+STFC,Chester,fulltime,Other,40447.0,fullstackdeveloper,middle_level
+STFC,Chester,fulltime,Other,40447.0,Unknown,middle_level
+Head Resourcing Limited,Wakefield,contract,Other,110500.0,testengineer,middle_level
+Head Resourcing Limited,Wakefield,contract,Other,143000.0,developmentoperationsengineer,middle_level
+Head Resourcing Limited,Wakefield,contract,Other,110500.0,testengineer,senior_level
+Head Resourcing Limited,Wakefield,contract,Other,143000.0,rubydeveloper,middle_level
+Head Resourcing Limited,Wakefield,contract,Other,143000.0,developmentoperationsengineer,senior_level
+TemplarFox Consultancy,Wakefield,fulltime,Other,37500.0,,senior_level
+University of Sheffield,Wakefield,fulltime,Education and Schools,35455.5,researchassociate,middle_level
+TemplarFox Consultancy,Wakefield,fulltime,Other,37500.0,Unknown,senior_level
+Ossila Ltd,Wakefield,fulltime,Other,30000.0,seospecialist,middle_level
+Ossila Ltd,Wakefield,fulltime,Other,30000.0,Unknown,middle_level
+realTime,Lisburn,contract,Human Resources and Staffing,80000.0,Unknown,middle_level
+realTime,Lisburn,contract,Human Resources and Staffing,80000.0,datascientist,middle_level
+realTime,Lisburn,temporary,Human Resources and Staffing,80000.0,datascientist,middle_level
+UK Government - Defence Science and Technology Lab...,Lisburn,parttime,Other,37450.0,engineer,middle_level
+Bangor University,Lisburn,parttime,Other,36404.5,researcher,middle_level
+Signifyd,Lisburn,fulltime,Other,50000.0,datascientist,middle_level
+UK Government - Defence Science and Technology Lab...,Lisburn,fulltime,Other,37450.0,engineer,middle_level
+Environmental Tracing,Paisley,contract,Other,32500.0,datascientist,senior_level
+Random Analysis,Paisley,contract,Internet and Software,110500.0,frontenddeveloper,middle_level
+Random Analysis,Paisley,contract,Internet and Software,110500.0,Unknown,middle_level
+Police Scotland,Paisley,fulltime,Other,45460.0,datascientist,senior_level
+Environmental Tracing,Paisley,fulltime,Other,32500.0,datascientist,senior_level
+Police Scotland,Paisley,fulltime,Other,28701.0,productofficer,middle_level
+The HR Booth,Paisley,fulltime,Other,35000.0,datascientist,senior_level
+Police Scotland,Paisley,fulltime,Other,32778.0,productengineer,senior_level
+OnScale,Paisley,fulltime,Other,40000.0,softwareengineer,senior_level
+Pirbright,Guildford,contract,Other,27355.0,datascientist,middle_level
+The Institute of Cancer Research,Guildford,contract,Other,27367.0,data,senior_level
+Investigo,Guildford,contract,Human Resources and Staffing,42500.0,fp&aanalyst,middle_level
+Imperial College London,Guildford,contract,Education and Schools,47781.5,researchfellow,middle_level
+CK Group,Guildford,contract,Human Resources and Staffing,25000.0,datascientist,senior_level
+Imperial College London,Guildford,contract,Education and Schools,39172.0,researchassociate,middle_level
+Maxxima,Guildford,contract,Health Care,21840.0,laboratory,junior_level
+Imperial College London,Guildford,contract,Education and Schools,39160.0,researchfellow,middle_level
+CK Group,Guildford,contract,Human Resources and Staffing,80080.0,datascientist,middle_level
+Imperial College London,Guildford,contract,Education and Schools,65000.0,researchfellow,middle_level
+Imperial College London,Guildford,contract,Education and Schools,35941.5,research,junior_level
+Avantia Group,Guildford,contract,Other,20500.0,customerservicerepresentative,middle_level
+Lawrence Harvey,Guildford,contract,Other,143000.0,developmentoperationsengineer,middle_level
+Imperial College London,Guildford,contract,Education and Schools,41992.5,researchassociate,middle_level
+The Institute of Cancer Research,Guildford,contract,Other,37680.0,post-doctoralfellow,middle_level
+Imperial College London,Guildford,contract,Education and Schools,40448.0,researchassociate,senior_level
+EMR Marketing Recruitment,Guildford,temporary,Other,84500.0,dataanalyst,middle_level
+Avantia Group,Guildford,temporary,Other,27000.0,customerspecialist,middle_level
+University of Reading,Guildford,temporary,Education and Schools,33328.0,datascientist,middle_level
+Avantia Group,Guildford,temporary,Other,20500.0,customerservicerepresentative,middle_level
+Manpower,Guildford,temporary,Human Resources and Staffing,30000.0,Unknown,middle_level
+Inspiring Interns,Guildford,internship,Other,22000.0,marketingexecutive,senior_level
+UK Government - Animal and Plant Health Agency,Guildford,parttime,Government,33768.0,datascientist,senior_level
+Deputi AI,Guildford,fulltime,Other,50000.0,datascientist,middle_level
+British Car Auctions,Guildford,fulltime,Transport and Freight,50000.0,datascientist,senior_level
+Pirbright,Guildford,fulltime,Other,27355.0,datascientist,middle_level
+Envitia,Guildford,fulltime,Other,55000.0,datascientist,senior_level
+CGG,Guildford,fulltime,Other,32000.0,datascientist,middle_level
+The Institute of Cancer Research,Guildford,fulltime,Other,27367.0,data,senior_level
+B&S Group (London),Guildford,fulltime,Other,27500.0,datascientist,middle_level
+Ad Warrior,Guildford,fulltime,Other,42500.0,datascientist,middle_level
+Dativa,Guildford,fulltime,Other,32000.0,datascientist,junior_level
+Atomic Weapons Establishment,Guildford,fulltime,Other,25000.0,buyer,junior_level
+AWE,Guildford,fulltime,Other,25000.0,buyer,junior_level
+Dativa,Guildford,fulltime,Other,32000.0,Unknown,junior_level
+realTime,Newtownabbey,contract,Human Resources and Staffing,80000.0,datascientist,middle_level
+realTime,Newtownabbey,temporary,Human Resources and Staffing,80000.0,datascientist,middle_level
+UK Government - Defence Science and Technology Lab...,Newtownabbey,parttime,Other,37450.0,engineer,middle_level
+Bangor University,Newtownabbey,parttime,Other,36404.5,researcher,middle_level
+Signifyd,Newtownabbey,fulltime,Other,50000.0,datascientist,middle_level
+UK Government - Defence Science and Technology Lab...,Newtownabbey,fulltime,Other,37450.0,engineer,middle_level
+Concept Information Technology,Tonypandy,contract,Consulting and Business Services,36400.0,datascientist,middle_level
+Business Butler Swansea,Tonypandy,contract,Other,30000.0,softwareengineer,middle_level
+UK Government - Government Statistical Service,Tonypandy,parttime,Government,33150.0,medicalofficer,senior_level
+Public Health Wales NHS Trust,Tonypandy,fulltime,Health Care,40761.0,publichealthnurse,senior_level
+Bodhi Resourcing,Tonypandy,fulltime,Other,35000.0,Unknown,senior_level
+UK Government - Government Statistical Service,Tonypandy,fulltime,Government,33150.0,medicalofficer,senior_level
+Bodhi Resourcing,Tonypandy,fulltime,Other,35000.0,dataengineer,senior_level
+Business Butler Swansea,Tonypandy,fulltime,Other,30000.0,softwareengineer,middle_level
+Just Life Sciences,Tonypandy,fulltime,Other,42000.0,datascientist,middle_level
+Just Life Sciences,Tonypandy,fulltime,Other,35000.0,teamer,senior_level
+realTime,Bangor,contract,Human Resources and Staffing,80000.0,datascientist,middle_level
+realTime,Bangor,temporary,Human Resources and Staffing,80000.0,datascientist,middle_level
+UK Government - Defence Science and Technology Lab...,Bangor,parttime,Other,37450.0,engineer,middle_level
+Bangor University,Bangor,parttime,Other,36404.5,researcher,middle_level
+Signifyd,Bangor,fulltime,Other,50000.0,datascientist,middle_level
+UK Government - Defence Science and Technology Lab...,Bangor,fulltime,Other,37450.0,engineer,middle_level
