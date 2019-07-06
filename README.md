@@ -4,7 +4,7 @@
 
 For any expanding business working with Data Scientists, it's hard to keep up to date being competitive in the hiring market. That's why this project gathered tons of job posts publications in order to answer the following questions:
 
-   1. Dindustry factors that are most important in predicting the salary amounts for these data.
+   1. Industry factors that are most important in predicting the salary amounts for these data.
    2. Factors that distinguish job categories and titles from each other. 
 
 To limit the scope we *focus on data-related job postings*, e.g. data scientist, data analyst, research scientist, business intelligence, in between others. Only within the UK.
